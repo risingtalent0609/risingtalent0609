@@ -1,4 +1,4 @@
-<h1 align="center">NAJI is a Senior Full Stack & Blockchain Engineer.</h1>
+<h1 align="center">I am a Senior Full Stack & Blockchain Engineer.</h1>
 
 <p align="center">
   <a href="https://github.com/naji2329?tab=repositories&sort=stargazers">
@@ -33,7 +33,7 @@
 
 
 - 📫 How to reach me </br>
-    Email: be1512t6@gmail.com or jn.naji2329@gmail.com </br>
+    Email: bsbussiness000@gmail.com </br>
     Skype: live:.cid.b273fe3370c1d411 </br>
     Discord: NAJI#4765 </br>
     
